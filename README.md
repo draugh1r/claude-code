@@ -252,25 +252,33 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 
 ---
 
-How to Use & Explore
-📦 Prerequisites
+## How to Use & Explore
+### 📦 Prerequisites
+
 Bun Runtime (Highly Recommended) or Node.js v18+
+
 TypeScript installed globally
-🚀 Getting Started
-Clone the repository:
+
+### 🚀 Getting Started
+
+# Clone the repository:
 
 git clone https://github.com/your-username/claude-leaked.git
 cd claude-leaked
-Install Dependencies:
+
+# Install Dependencies:
 
 npm install
-Build the Project:
+
+# Build the Project:
 
 npm run build
-Run the CLI:
+
+# Run the CLI:
 
 node dist/main.js
-🔍 Explore with MCP
+
+### 🔍 Explore with MCP
 This repo includes an MCP Server to let you explore the source using Claude itself:
 
 claude mcp add code-explorer -- npx -y claude-code-explorer-mcp
