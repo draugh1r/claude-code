@@ -263,25 +263,37 @@ TypeScript installed globally
 
 ### Clone the repository:
 
+```bash
 git clone https://github.com/your-username/claude-leaked.git
+```
+```bash
 cd claude-leaked
+```
 
 ### Install Dependencies:
 
+```bash
 npm install
+```
 
 ### Build the Project:
 
+```bash
 npm run build
+```
 
 # Run the CLI:
 
+```bash
 node dist/main.js
+```
 
 ### 🔍 Explore with MCP
 This repo includes an MCP Server to let you explore the source using Claude itself:
 
+```bash
 claude mcp add code-explorer -- npx -y claude-code-explorer-mcp
+```
 
 ## Disclaimer
 
