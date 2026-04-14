@@ -259,18 +259,18 @@ Bun Runtime (Highly Recommended) or Node.js v18+
 
 TypeScript installed globally
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
-# Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/your-username/claude-leaked.git
 cd claude-leaked
 
-# Install Dependencies:
+### Install Dependencies:
 
 npm install
 
-# Build the Project:
+### Build the Project:
 
 npm run build
 
