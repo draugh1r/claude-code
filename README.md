@@ -252,6 +252,29 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 
 ---
 
+How to Use & Explore
+📦 Prerequisites
+Bun Runtime (Highly Recommended) or Node.js v18+
+TypeScript installed globally
+🚀 Getting Started
+Clone the repository:
+
+git clone https://github.com/your-username/claude-leaked.git
+cd claude-leaked
+Install Dependencies:
+
+npm install
+Build the Project:
+
+npm run build
+Run the CLI:
+
+node dist/main.js
+🔍 Explore with MCP
+This repo includes an MCP Server to let you explore the source using Claude itself:
+
+claude mcp add code-explorer -- npx -y claude-code-explorer-mcp
+
 ## Disclaimer
 
 This repository archives source code that was leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com).
